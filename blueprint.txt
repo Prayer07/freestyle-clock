@@ -1,0 +1,4 @@
+create a clock first
+den create another file dat handles the reminder
+in the reminder app create a function that allows us to set a specific date and month or even minutes if Theres time😅
+and it should give an alarm 
